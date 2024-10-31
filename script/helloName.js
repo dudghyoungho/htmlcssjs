@@ -1,5 +1,5 @@
 function helloName(name, studentId) {
-  alert(`Hello, ${name}! 학번: ${studentId}`);
+  alert(`Hello, ${name}! Your Student ID is ${studentId}.`);
 }
 
 const inputName = document.getElementById("helloName");
